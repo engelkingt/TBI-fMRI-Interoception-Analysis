@@ -1,0 +1,17 @@
+# data + outputs
+data/
+outputs/
+
+# neuroimaging data
+*.nii
+*.nii.gz
+*.mat
+*.npy
+*.csv
+
+# python
+__pycache__/
+*.pyc
+
+# OS
+.DS_Store
