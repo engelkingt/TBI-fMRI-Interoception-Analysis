@@ -1,0 +1,7 @@
+numpy>=1.23
+pandas>=1.5
+nibabel>=4.0
+nilearn>=0.10
+scipy>=1.9
+matplotlib>=3.5
+scikit-learn>=1.1
